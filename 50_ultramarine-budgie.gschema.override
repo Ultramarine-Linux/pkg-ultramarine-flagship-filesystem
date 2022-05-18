@@ -17,6 +17,7 @@ scheme='textmate'
 [org.gnome.desktop.interface]
 gtk-theme='Fluent-round-dark'
 icon-theme='Fluent-dark'
+color-scheme='prefer-dark'
 
 [org.gnome.nm-applet]
 show-applet=false
@@ -42,5 +43,3 @@ caffeine-mode=false
 center-windows=false
 show-all-windows-tabswitcher=false
 
-[org.gnome.desktop.interface color-scheme]
-color-scheme='prefer-dark'
