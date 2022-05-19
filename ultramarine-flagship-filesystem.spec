@@ -1,5 +1,5 @@
 Name:           ultramarine-flagship-filesystem
-Version:        0.1.2
+Version:        0.1.3
 Release:        1%{?dist}
 Summary:        Assets for Ultramarine Linux Flagship
 
