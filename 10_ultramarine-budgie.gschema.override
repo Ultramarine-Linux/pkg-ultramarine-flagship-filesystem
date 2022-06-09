@@ -28,7 +28,7 @@ migration-level=1
 notification-position='BUDGIE_NOTIFICATION_POSITION_BOTTOM_RIGHT'
 layout='ultramarine-marina'
 
-[us.getsol.budgie-desktop-view]
+[org.buddiesofbudgie.budgie-desktop-view]
 show=true
 click-policy='double'
 

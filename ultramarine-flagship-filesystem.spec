@@ -1,5 +1,5 @@
 Name:           ultramarine-flagship-filesystem
-Version:        0.1.0
+Version:        0.1.1
 Release:        1%{?dist}
 Summary:        Assets for Ultramarine Linux Flagship
 
@@ -29,5 +29,8 @@ install %{SOURCE1} %{buildroot}%{_datadir}/budgie-desktop/panel.ini
 
 
 %changelog
+* Wed Jun 08 2022 Cappy Ishihara <cappy@cappuchino.xyz> - 0.1.1
+- Updated layouts and config files
+
 * Wed May 18 2022 Cappy Ishihara <cappy@cappuchino.xyz>
-- 
+- Initial release
