@@ -5,7 +5,7 @@ Summary:        Assets for Ultramarine Linux Flagship
 
 License:        MIT
 URL:            https://ultramarine-linux.org
-Source0:        10_ultramarine-budgie.gschema.override
+Source0:        50_ultramarine-budgie.gschema.override
 Source1:        ultramarine-marina.layout
 
 Requires:       budgie-desktop
@@ -22,7 +22,7 @@ install %{SOURCE1} %{buildroot}%{_datadir}/budgie-desktop/panel.ini
 
 
 %files
-%{_datadir}/glib-2.0/schemas/10_ultramarine-budgie.gschema.override
+%{_datadir}/glib-2.0/schemas/50_ultramarine-budgie.gschema.override
 %{_datadir}/budgie-desktop/layouts/ultramarine-marina.layout
 %{_datadir}/budgie-desktop/panel.ini
 
